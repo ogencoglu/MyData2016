@@ -1,9 +1,6 @@
-<a href="url"><img src="https://github.com/ogencoglu/MyData2016/blob/master/images/logo.png" align="center"  height="220" ></a>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p align="center">
+<img src="https://github.com/ogencoglu/MyData2016/blob/master/images/logo.png" height="150" ></a>
+</p>
 <br>
 <br>
 
