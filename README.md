@@ -1,12 +1,21 @@
+<a href="url"><img src="https://github.com/ogencoglu/MyData2016/blob/master/images/logo.png" align="center"  height="220" ></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 MyData2016 - Analytics With Personal and Big Data
 =====
 
-Material for my talk *Why is your data valuable? : A machine learning and AI perspective*, for [MyData2016](http://mydata2016.org/) conference in Helsinki, Finland.
+Materials for my talk *Why is your data valuable? : A machine learning and AI perspective*, for [MyData2016](http://mydata2016.org/) conference in Helsinki, Finland.
 
 Links
 -------
 
-* [MyData2016 Conference]http://mydata2016.org/session/analytics-with-personal-and-big-data/
+* [MyData2016 Conference](http://mydata2016.org/session/analytics-with-personal-and-big-data/)
 * [Session: Analytics With Personal And Big Data](http://mydata2016.org/session/analytics-with-personal-and-big-data/)
 
 
