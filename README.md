@@ -2,7 +2,7 @@
 <img src="https://github.com/ogencoglu/MyData2016/blob/master/images/logo.png" height="150" ></a>
 </p>
 
-MyData2016 - Why is your data valuable? : A machine learning and AI perspective
+Why is your data valuable? : A machine learning and AI perspective
 =====
 
 Materials for my talk **Why is your data valuable? : A machine learning and AI perspective** in the session **Analytics With Personal And Big Data**, for [MyData2016](http://mydata2016.org/) conference in Helsinki, Finland.
@@ -19,7 +19,7 @@ Links
 
 * [MyData2016 Conference](http://mydata2016.org/session/analytics-with-personal-and-big-data/)
 * [Session: Analytics With Personal And Big Data](http://mydata2016.org/session/analytics-with-personal-and-big-data/)
-* [Oguzhan Gencoglu](http://mydata2016.org/speaker/oguzhan-gencoglu/)
+* [Speaker: Oguzhan Gencoglu](http://mydata2016.org/speaker/oguzhan-gencoglu/)
 
 
 License
