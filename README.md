@@ -10,6 +10,9 @@ Materials for my talk **Why is your data valuable? : A machine learning and AI p
 Info
 -------
 
+The presentation will delve into fairness, interpretability, accountability and transparency of machine learning algorithms from the “My Data” point of view. Opportunities, initiatives and challenges of discrimination- & privacy-aware data mining will be discussed, as well as the status of the recent developments in AI research and connection to personal data standpoint.
+
+
 |         Session                      |       Date            |       Time         |   Place  |
 |                         ---          |   ---                 |      ---           |    ---   |
 | Analytics With Personal And Big Data |  Friday, 02.09.2016   |      11:00-13:00   |   Alvar  |
