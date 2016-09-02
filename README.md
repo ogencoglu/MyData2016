@@ -5,20 +5,17 @@
 Why is your data valuable? : A machine learning and AI perspective
 =====
 
-Materials for my talk **Why is your data valuable? : A machine learning and AI perspective** in the session **Analytics With Personal And Big Data**, for [MyData2016](http://mydata2016.org/) conference in Helsinki, Finland.
+Materials for my talk **Why is your data valuable? : A machine learning and AI perspective** in the session [Analytics With Personal And Big Data](http://mydata2016.org/session/analytics-with-personal-and-big-data/), for [MyData2016](http://mydata2016.org/) conference in Helsinki, Finland.
 
 Info
 -------
 
 The presentation will delve into fairness, interpretability, accountability and transparency of machine learning algorithms from the “My Data” point of view. Opportunities, initiatives and challenges of discrimination- & privacy-aware data mining will be discussed, as well as the status of the recent developments in AI research and connection to personal data standpoint.
 
-<center>
-
 |         Session                      |       Date            |       Time         |   Place  |
 |                         ---          |   ---                 |      ---           |    ---   |
 | Analytics With Personal And Big Data |  Friday, 02.09.2016   |      11:00-13:00   |   Alvar  |
 
-</center>
 
 Links
 -------
