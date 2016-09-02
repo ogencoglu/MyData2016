@@ -20,7 +20,7 @@ The presentation will delve into fairness, interpretability, accountability and 
 Links
 -------
 
-* [MyData2016 Conference](http://mydata2016.org/session/analytics-with-personal-and-big-data/)
+* [MyData2016 Conference](http://mydata2016.org/)
 * [Session: Analytics With Personal And Big Data](http://mydata2016.org/session/analytics-with-personal-and-big-data/)
 * [Speaker: Oguzhan Gencoglu](http://mydata2016.org/speaker/oguzhan-gencoglu/)
 
