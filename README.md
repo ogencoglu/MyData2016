@@ -17,6 +17,11 @@ The presentation will delve into fairness, interpretability, accountability and 
 | Analytics With Personal And Big Data |  Friday, 02.09.2016   |      11:00-13:00   |   Alvar  |
 
 
+Video
+-------
+
+The whole talk is [here](https://www.youtube.com/watch?v=JS7ixz7Onxw).
+
 Links
 -------
 
